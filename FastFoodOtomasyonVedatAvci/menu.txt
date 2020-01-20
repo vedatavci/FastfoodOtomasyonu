@@ -1,0 +1,5 @@
+Menu 1:Et Doner + Ayran veya Kola
+Menu 2:Islak Hamburger + Ayran veya Kola
+Menu 3:Tantuni + Ayran veya Kola
+Menu 4:Kuzu Kokorec + Salgam
+Menu 5:Sandivic + Ayran veya Kola
